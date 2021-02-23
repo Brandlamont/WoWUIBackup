@@ -1,0 +1,26 @@
+VER 3 0100000000000002 "Dark Soul" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Dark Soul: Misery
+/cast Blood Fury(Racial)
+END
+VER 3 0100000000000005 "Dark Soul PI" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Dark Soul: Misery
+/cast Blood Fury(Racial)
+/w Emanate-Turalyon pime
+END
+VER 3 0100000000000003 "Darkglare" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Summon Darkglare
+/use 13
+END
+VER 3 0100000000000004 "Exhaust" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Curse of Exhaustion
+/target Regenerating Wildseed
+END
+VER 3 0100000000000001 "Havoc Focus" "460695"
+#showtooltip
+/focus [@focus,noharm][@focus,dead]
+/cast [@focus] Havoc
+END
